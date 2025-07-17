@@ -2,7 +2,7 @@
 
 This is a repository for a Trail Blazer App with Kotlin, Fused Location Provider Api, Google Map.
 
-[VIDEO TUTORIAL]()
+[VIDEO TUTORIAL](https://youtu.be/9hxEp-nQK3k)
 
 Features:
 
